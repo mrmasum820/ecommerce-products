@@ -1,0 +1,334 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "XX99 Mark II",
+            "description": "The new XX99 Mark 11 beadphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproduring the sensed and precise of studio-quality sound",
+            "category": "headphones",
+            "price": 2999,
+            "features": "Featuring a genuine leather head strap and premium earcups, these headphones deliver superior comfort for those who like to my dis lite for any situation. Whether youlu2019re taking a business call or just in your own personal space, the auto on/off and pause features sosure that youls281911 never miss a beet. The advanced allow you to experience your audio world on your terms. It lets you enjoy your audio in peace, but quickly interact with your surroundings when you need to. Combined with Blastoon? 5. Mark 11 headphones gives you superior sound, cutting-edge technology, and a modern design aesthetic.",
+            "is_featured": 1,
+            "created_at": null,
+            "updated_at": null,
+            "images": [
+                {
+                    "id": 1,
+                    "product_id": 1,
+                    "sources": "..\\/assets\\/images\\/xx99-mark-1.png",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "product_id": 1,
+                    "sources": "..\\/assets\\/images\\/xx99-mark-2.png",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "product_id": 1,
+                    "sources": "..\\/assets\\/images\\/xx99-mark-3.png",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "included": [
+                {
+                    "id": 1,
+                    "product_id": 1,
+                    "amount": 1,
+                    "name": "Headphone Unit",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "product_id": 1,
+                    "amount": 2,
+                    "name": "Replacement Earcupa",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 11,
+                    "product_id": 1,
+                    "amount": 1,
+                    "name": "3.5mm Audio Cable",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 12,
+                    "product_id": 1,
+                    "amount": 1,
+                    "name": "Travel Bag",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 27,
+                    "product_id": 1,
+                    "amount": 1,
+                    "name": "User Manual",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "XX99 Mark I",
+            "description": "As the headphones all others are moured against, the headphones deliver superior comfort for those who like to enjoy endless listening. It includes intuitive controls designed for any situation. Whether you taking pause features that you never miss a your surroundings when you need to. Combined with Bluetooth 5.0 compliant connectivity and 17 hour battery life, the XX99 Mark II headphones gives you superior sound, cutting-edge te beat. The advanced Active Noise Cancellation with built-in equalizer allow you to experience your audio world on your tems.",
+            "category": "headphones",
+            "price": 1759,
+            "features": "Featuring a genuine leather head strap and premium earcups, these headphones deliver superior comfort for those who like to my dis lite for any situation. Whether you taking a business call or just in your own personal space, the auto on/off and pause features sosure that you never miss a beet. The advanced allow you to experience your audio world on your terms. It lets you enjoy your audio in peace, but quickly interact with your surroundings when you need to. Combined with Blastoon? 5. Mark 11 headphones gives you superior sound, cutting-edge technology, and a modern design aesthetic",
+            "is_featured": 0,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "included": [
+                {
+                    "id": 17,
+                    "product_id": 2,
+                    "amount": 1,
+                    "name": "Headphone Unit",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 18,
+                    "product_id": 2,
+                    "amount": 2,
+                    "name": "Replacement Earcupa",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 19,
+                    "product_id": 2,
+                    "amount": 1,
+                    "name": "User Manual",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 20,
+                    "product_id": 2,
+                    "amount": 1,
+                    "name": "3.5mm Audio Cable",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "XX59",
+            "description": "Enjoy your audio almost customize it to your spec tastes As the headphones all others are moured against, the headphones deliver superior comfort for those who like to enjoy endless listening. It includes intuitive controls designed for any situation. Whether you 2019 re taking pause features that youtu201911 never miss a your surroundings when you need to. Combined with Bluetooth 5.0 compliant connectivity and 17 hour battery life, the XX99 Mark II headphones gives you superior sound, cutting-edge te beat. The advanced Active Noise Cancellation with built-in equalizer allow you to experience your audio world on your tems.",
+            "category": "headphones",
+            "price": 1759,
+            "features": "Featuring a genuine leather head strap and premium earcups, these headphones deliver superior comfort for those who like to my dis lite for any situation. Whether youlu2019re taking a business call or just in your own personal space, the auto on/off and pause features sosure that youls281911 never miss a beet. The advanced allow you to experience your audio world on your terms. It lets you enjoy your audio in peace, but quickly interact with your surroundings when you need to. Combined with Blastoon? 5. Mark 11 headphones gives you superior sound, cutting-edge technology, and a modern design aesthetic",
+            "is_featured": 0,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "included": [
+                {
+                    "id": 25,
+                    "product_id": 3,
+                    "amount": 1,
+                    "name": "Headphone Unit",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 26,
+                    "product_id": 3,
+                    "amount": 3,
+                    "name": "Replacement Earcupa",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 27,
+                    "product_id": 3,
+                    "amount": 2,
+                    "name": "User Manual",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 20,
+                    "product_id": 2,
+                    "amount": 1,
+                    "name": "3.5mm Audio Cable",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "XX9",
+            "description": "Enjoy your audio almost customize it to your spec tastes As the headphones all others are moured against, the headphones deliver superior comfort for those who like to enjoy endless listening. It includes intuitive controls designed for any situation. Whether you2019re taking pause features that youtu201911 never miss a your surroundings when you need to. Combined with Bluetooth 5.0 compliant connectivity and 17 hour battery life, the XX99 Mark II headphones gives you superior sound, cutting-edge te beat. The advanced Active Noise Cancellation with built-in equalizer allow you to experience your audio world on your tems.",
+            "category": "speakers",
+            "price": 1500,
+            "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design travel. Flawless headphones. The mission is assured by the latest wireless technology engineered for audio synchronization stylish yet durable versatile vireless Sendor calling when paire videos. More 30-hour battery life that can be rapidly recharged via USB-C",
+            "is_featured": 0,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "included": [
+                {
+                    "id": 29,
+                    "product_id": 4,
+                    "amount": 2,
+                    "name": "Speaker Unit",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 30,
+                    "product_id": 4,
+                    "amount": 2,
+                    "name": "Speaker Cloth Panel",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 31,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "User Manual",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 32,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "10mm Optical Cable",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 33,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "3.5mm 10 Audio Cable",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "B17",
+            "description": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-3, stereo RCA, and stereo 3 pts, for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m). Discover clear, more natural sounding highs than the competition with 29 is its powerful room-shaking bass can respond to even the subtle waveforme.",
+            "category": "speakers",
+            "price": 3500,
+            "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design travel. Flawless headphones. The mission is assured by the latest wireless technology engineered for audio synchronization stylish yet durable versatile vireless Sendor calling when paire videos. More 30-hour battery life that can be rapidly recharged via USB-C",
+            "is_featured": 0,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "included": [
+                {
+                    "id": 29,
+                    "product_id": 4,
+                    "amount": 2,
+                    "name": "Speaker Unit",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 30,
+                    "product_id": 4,
+                    "amount": 2,
+                    "name": "Speaker Cloth Panel",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 31,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "User Manual",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 32,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "10mm Optical Cable",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 33,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "3.5mm 10 Audio Cable",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "B17",
+            "description": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-3, stereo RCA, and stereo 3 pts, for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m). Discover clear, more natural sounding highs than the competition with 29 is its powerful room-shaking bass can respond to even the subtle waveforme.",
+            "category": "earphones",
+            "price": 3500,
+            "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design travel. Flawless headphones. The mission is assured by the latest wireless technology engineered for audio synchronization stylish yet durable versatile vireless Sendor calling when paire videos. More 30-hour battery life that can be rapidly recharged via USB-C",
+            "is_featured": 0,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "included": [
+                {
+                    "id": 30,
+                    "product_id": 4,
+                    "amount": 2,
+                    "name": "Speaker Unit",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 31,
+                    "product_id": 4,
+                    "amount": 2,
+                    "name": "Speaker Cloth Panel",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 31,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "User Manual",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 32,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "10mm Optical Cable",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 33,
+                    "product_id": 4,
+                    "amount": 1,
+                    "name": "3.5mm 10 Audio Cable",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }
+    ]
+}
